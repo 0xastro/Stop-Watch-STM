@@ -6,3 +6,10 @@ The Project is developed using State-flow and Simulink to make pseudo concurrent
 
 #### StopWatch Mode states of operations [Start, Stop and Reset]
 <p align="center"> <img  src="imgs/swatch.gif"> </p>
+
+
+#### Project State: Stopped
+##### TODO:
+1. Implement Alarm Manage Sub-State Machine
+2. Implement Time Set Sub-State Machine
+3. AutoGenerate the code
